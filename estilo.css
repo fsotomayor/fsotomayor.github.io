@@ -1,0 +1,15 @@
+body{
+	background-color: grey;
+	width: 500px;
+}
+
+img{
+	align-content: left;
+	width: 150px;
+	height: 150px;
+	float: right;
+}
+
+.desc {
+	margin-top: 0;
+}
